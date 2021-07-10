@@ -2,7 +2,7 @@
 PVector location = new PVector();
 PVector velocity = new PVector();
 
-public static final float r = 30;
+public static final float r = 60;
 
 public void setup(){
 size(600,600);
